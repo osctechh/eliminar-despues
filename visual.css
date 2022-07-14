@@ -1,0 +1,27 @@
+.cover {
+    padding: 200px;
+    background-image: url(https://images.unsplash.com/photo-1608095476825-d4e0f916372f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0,0,0,0.5);
+    background-blend-mode: darken;
+
+
+}
+.Policia {
+    color: aliceblue;
+}
+.entrada {
+    height: 90px;
+}
+.letrain {
+    color: aliceblue;
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+}
+.visual {
+    margin-top: 25px;
+    margin: 10 px;
+    background-color: rgb(42, 42, 179);
+    height: 50px;
+}
